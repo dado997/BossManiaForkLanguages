@@ -1,0 +1,15 @@
+CANT_INTERACT: §cYou can't interact with blocks in this outpost!
+CANT_HIT: §cYou can't hit a defender of your outpost!
+OUTPOST_CONQUEERED: §aCongratulations! You conquered this outpost!
+IN_OUTPOST: §aYou are in your outpost!
+ENTERED_IN_OUTPOST: §cYou entered in the §e %outpost% §coutpost! Kill all the bosses inside it to conquer the outpost
+OWNOUTPOST_CONQUEERED: §cYour outpost has been conquered by §e%player% §c!
+OUTPOST_BEING_ATTACKED: §cYour outpost is being attacked!
+CANT_ENTER_TITLE: §cYou can't enter!
+OUTPOST_ALREADY_BEINGATTACKED_TITLE: §cThis outpost is already being attacked!
+OUTPOST_JUST_CONQUEERED_TITLE: §cOutpost just been conquered!
+WAIT_TO_ATTACK: §cWait §e %time% §cseconds to attack this outpost!
+LIMIT_REACHED_TITLE: §cLimit reached!
+LIMIT_REACHED_SUBTITLE: §cYou have reached the limit of outpost you can own
+CANT_EXIT: §cYou can't exit
+CANT_EXIT_SUBTITLE: §cYou have to complete the attack to exit!
